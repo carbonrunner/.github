@@ -1,0 +1,11 @@
+name: Every 4 Hours
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+
+jobs:
+  four-hour-job:
+    runs-on: carbonrunner-2vcpu-ubuntu-latest
+    steps:
+      - run: echo "Runs every 4 hours on CarbonRunners runner"
