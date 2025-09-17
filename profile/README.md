@@ -61,4 +61,5 @@ jobs:
 
 ## Join the Journey
 
-📢 [Follow us on LinkedIn](https://www.linkedin.com/company/carbonrunner/)
+- 🎙️ [Join the discussion](https://github.com/orgs/carbonrunner/discussions)
+- 📢 [Follow us on LinkedIn](https://www.linkedin.com/company/carbonrunner/)
