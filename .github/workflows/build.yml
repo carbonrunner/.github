@@ -1,0 +1,15 @@
+name: Build & Publish main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hello
+        run: echo "hello"
+      - name: Sleeptime
+        run: sleep 45
