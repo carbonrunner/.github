@@ -6,6 +6,6 @@ on:
 
 jobs:
   four-hour-job:
-    runs-on: ubuntu-latest
+    runs-on: carbonrunner-2vcpu-ubuntu-latest
     steps:
-      - run: echo "Runs every 4 hours on GitHub's ubuntu-latest"
+      - run: echo "Runs every 4 hours on CarbonRunners runner"
