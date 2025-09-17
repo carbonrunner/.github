@@ -53,8 +53,6 @@ Trigger a build (or wait for the next one). We auto-route to the cleanest, faste
 * 🌐 [Website](https://carbonrunner.io/) — learn more
 
 
-Join the Journey
+## Join the Journey
 
-💬 Open a Discussion
-🐞 Report Issues
-📢 Follow us on LinkedIn
+📢 [Follow us on LinkedIn](https://www.linkedin.com/company/carbonrunner/)
