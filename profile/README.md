@@ -1,10 +1,8 @@
 # ⚡ Supercharge Your GitHub Actions
 
-CarbonRunner runs your GitHub Actions in the lowest-CO₂ regions. Across multiple cloud providers like AWS, Azure, and GCP - all in real time. 
+CarbonRunner runs your GitHub Actions in the **lowest-CO₂ regions**. Across [multi-cloud providers](https://carbonrunner.io/features/multiple-providers) like **AWS, Azure, and GCP** - all in real time. 
 
-It's built for **[faster](https://carbonrunner.io/performance), [savings](https://carbonrunner.io/pricing), and [sustainability](https://carbonrunner.io/sustainability)** — with with [multi-cloud resilience](https://carbonrunner.io/features/multiple-providers) across AWS, Azure, and GCP.
-
-Making your workflows 90% greener, and saving 25% of the cost of GitHub across all runner types. 
+It's built for [faster](https://carbonrunner.io/performance), [savings](https://carbonrunner.io/pricing), and [sustainability](https://carbonrunner.io/sustainability) GitHub Actions. Making your workflows **90% greener**, and **saving 25%** of the cost of GitHub across all runner types. 
 
 It’s **modern, resilient, carbon-aware CI** — redefining what GitHub Actions can do.
 
