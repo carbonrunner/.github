@@ -1,4 +1,6 @@
-# Quickstart 
+# Quickstart
+
+Swapping to CarbonRunner in three simple steps.
 
 ### 1. Sign in & connect up GitHub
 
@@ -10,7 +12,7 @@ Open the CarbonRunner dashboard and grant the permissions we need to execute you
 # .github/workflows/ci.yml
 
 jobs:
-  deploy: 
+  deploy:
 -   runs-on: ubuntu-latest
 +   runs-on: carbonrunner-2vcpu-ubuntu-latest
 ```
